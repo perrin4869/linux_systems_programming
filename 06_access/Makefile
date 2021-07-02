@@ -12,4 +12,4 @@ $(OUT): $(SRC)
 .PHONY: all clean
 
 clean:
-	rm -rf $(OUT)
+	rm -rf $(OUT) f1 f2 f3
